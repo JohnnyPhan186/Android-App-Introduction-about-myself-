@@ -1,14 +1,15 @@
 <resources>
-    <string name="app_name">Hello Squirrel</string>
+    <string name="app_name">Project1</string>
 
-    <string name="first_name">FIRST</string>
-    <string name="last_name">LAST</string>
-    <string name="full_name">%s %s</string>
+    <string name="first_name">Johnny</string>
+    <string name="last_name">Phan</string>
+    <string name="full_name">Johnny Phan</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">Hi! My name is Johnny Phan as you may have read above. I am currently in the process of body building to strive for better health and also for the looks of course :). Recently, I discovered that I wanted to work in the mobile app development field in order to create apps that can help better people\'s mental health, especially with people who grew up with emotional absent figure(s) in their life. Through this, people can be emotionally open about their feelings and learn how to solve this type of issue in the healthiest way possible!
+                                    </string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 FIRST HOBBY</string>
-    <string name="profile_hobby_second_text">🥈 SECOND HOBBY</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_hobby_first_text">🥇 Body Building</string>
+    <string name="profile_hobby_second_text">🥈 Playing Video Games</string>
+    <string name="profile_hobby_third_text">🥉 Building Lego sets</string>
 </resources>

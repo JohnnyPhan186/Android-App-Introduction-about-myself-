@@ -1,5 +1,6 @@
 package com.driuft.hellosquirrel
 
+import android.annotation.SuppressLint
 import android.os.Build
 import android.os.Bundle
 import android.view.WindowInsets
@@ -35,9 +36,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun configureImage() {
-        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.ic_launcher_foreground))
+        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.avatar_15))
     }
 
+    @SuppressLint("StringFormatInvalid")
     private fun configureName() {
         profileName.text = getString(
             R.string.full_name,
