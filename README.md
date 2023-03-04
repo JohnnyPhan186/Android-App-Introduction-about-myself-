@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src= 'https://s3.amazonaws.com/img0.recordit.co/T1Rcj1aUGU.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1677896322&Signature=b1cPAbzxN0SUqk9TnOc%2B%2F99MtlQ%3D' ='Video Demo' width='' alt='Video Demo' />
+<img src= "https://recordit.co/T1Rcj1aUGU" ='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
