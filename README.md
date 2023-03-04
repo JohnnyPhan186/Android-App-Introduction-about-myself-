@@ -36,14 +36,18 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src= '[https://recordit.co/T1Rcj1aUGU](http://g.recordit.co/T1Rcj1aUGU.gif)' ='Video Demo' width='' alt='Video Demo' />
+<img src= 'https://recordit.co/T1Rcj1aUGU' ='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
+- [peek](https://github.com/phw/peek) f
+
+https://user-images.githubusercontent.com/102921609/222866539-b643bf9c-7fed-4d32-b6c0-dadd49f3f113.mp4
+
+or Linux. -->
 
 ## Notes
 
