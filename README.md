@@ -3,7 +3,6 @@
 
 Submitted by: Johnny Phan
 
-Time spent: **2** hours spent in total
 
 
 
