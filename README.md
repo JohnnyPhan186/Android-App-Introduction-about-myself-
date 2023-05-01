@@ -25,6 +25,10 @@ The following REQUIRED features are completed:
 
 The following STRETCH features are implemented:
 
+
+https://user-images.githubusercontent.com/102921609/235538103-9f88443a-b2b0-468a-aa13-f36100675fba.mp4
+
+
 - [ ] Re-brand the app by modifying the UI
 - [ ] Modify the profile image by uploading a new image drawable
 
